@@ -7,7 +7,7 @@ public class Library {
 	public static void main(String arg[]) {
 		Library lib = new Library();
 		if(lib.someLibraryMethod())
-			System.out.println("Hey this is repo 1.");
+			System.out.println("Hey this is repo 2.");
 			
 	}
     public boolean someLibraryMethod() {
